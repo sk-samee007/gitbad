@@ -1,1 +1,1 @@
-# gitbad
+# git-bad
